@@ -5,6 +5,18 @@ PLEASE NOTE:
     -PGMacDesign
     
     
+    
+    To compile:
+    compile 'com.github.PGMacDesign:PGMacDesign/elasticdownload:1.0.5'
+    
+    
+    
+    
+    
+    
+    
+    
+    
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.tibolte/elasticdownload/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.tibolte/elasticdownload)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ElasticDownload-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/1747)
 
