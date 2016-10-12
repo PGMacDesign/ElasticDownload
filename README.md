@@ -1,4 +1,10 @@
 # We are not Gif makers, We are developers
+
+PLEASE NOTE:
+    This is a forked version of the original. This version has the added feature to set the background color of the box behind the loading animation. The current version is 1.0.5, not 1.0.4 as with the original. 
+    -PGMacDesign
+    
+    
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.tibolte/elasticdownload/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.tibolte/elasticdownload)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ElasticDownload-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/1747)
 
